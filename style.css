@@ -55,12 +55,12 @@ header a{
 }
 
 a.active{
-    background: #14ff72cb;
+    background: #dc143c;
     border-radius: 2px;
 }
 
 header a:hover{
-    background: #14ff72cb;
+    background: #dc143c;
     border-radius: 2px;
 }
 
@@ -105,7 +105,7 @@ header a:hover{
     line-height: 1.3em;
 }
 .slider .list .item .type{
-    color: #14ff72cb;
+    color: #dc143c;
 }
 .slider .list .item .button{
     display: grid;
@@ -181,7 +181,7 @@ header a:hover{
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background-color: #14ff72cb;
+    background-color: #dc143c;
     border: none;
     color: #fff;
     font-family: monospace;
